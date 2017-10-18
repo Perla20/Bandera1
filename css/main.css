@@ -1,0 +1,20 @@
+/*usamos div ya que trabajamos con bloques*/
+div{
+  /*dando altura ala caja.*/
+  height: 100px;
+  /*le damos una sangria a cada contenido de la caja*/
+  padding-left: 10px
+
+}
+/*dandole color en sus valores rgb*/
+.yellow{
+  background-color: rgb(238,187,11);
+}
+/*dandole color en sus valores rgb*/
+.black{
+  background-color: rgb(21,21,21);
+/*le aplicamos solo magen sup e inf para separ de las cajas*/
+  margin: 8px 0;
+/*cambiamos de color contenido*/
+  color: white
+}
